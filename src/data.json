@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "John2@gmail.com",
+      "age": "29",
+      "role": "Developer",
+      "exp": "4"
+    },
+    {
+      "id": "2",
+      "name": "John Smith",
+      "email": "john@example.com",
+      "age": "35",
+      "role": "Manager",
+      "exp": "8"
+    },
+    {
+      "id": "3",
+      "name": "Emily Johnson",
+      "email": "emily@example.com",
+      "age": "28",
+      "role": "Designer",
+      "exp": "5"
+    },
+    {
+      "id": "5",
+      "name": "Sarah Miller",
+      "email": "sarah@example.com",
+      "age": "25",
+      "role": "Analyst",
+      "exp": "3"
+    },
+    {
+      "id": "6",
+      "name": "Michael Brown",
+      "email": "michael@example.com",
+      "age": "40",
+      "role": "Director",
+      "exp": "12"
+    },
+    {
+      "id": "7",
+      "name": "Jessica Taylor",
+      "email": "jessica@example.com",
+      "age": "29",
+      "role": "Consultant",
+      "exp": "6"
+    },
+    {
+      "id": "9",
+      "name": "Lisa Martinez",
+      "email": "lisa@example.com",
+      "age": "27",
+      "role": "Coordinator",
+      "exp": "4"
+    },
+    {
+      "id": "10",
+      "name": "Kevin White",
+      "email": "kevin@example.com",
+      "age": "32",
+      "role": "Programmer",
+      "exp": "7"
+    },
+    {
+      "id": "0327",
+      "name": "Ronit Sharma",
+      "email": "ronit@gmail.com",
+      "age": "33",
+      "role": "Manager",
+      "exp": "6"
+    }
+  ]
+}
